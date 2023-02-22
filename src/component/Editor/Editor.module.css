@@ -1,0 +1,18 @@
+.div1{
+    background-color: black;
+    display:flex;
+    padding:9px 12px
+   }
+   .div2{
+     display: flex;
+     color:aliceblue;
+     background-color: black;
+     justify-content: space-between;
+     
+   }
+   .maineditor{
+    width: auto;
+    flex-grow: 1;
+    padding: 2px;
+    flex-basis: 6 ;
+   }
